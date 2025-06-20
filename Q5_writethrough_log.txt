@@ -432,6 +432,6 @@ i0.defaultMemory.channel0.FRFCFS-WQF.measuredTotalLatencies 17983
 i0.defaultMemory.channel0.FRFCFS-WQF.simulation_cycles 307325866
 i0.defaultMemory.channel0.FRFCFS-WQF.wakeupCount 21438
 i0.defaultMemory.totalReadRequests 17359
-i0.defaultMemory.totalWriteRequests 654
+i0.defaultMemory.totalWriteRequests 643
 i0.defaultMemory.successfulPrefetches 0
 i0.defaultMemory.unsuccessfulPrefetches 0
